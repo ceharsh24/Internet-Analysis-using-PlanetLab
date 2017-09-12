@@ -1,0 +1,15 @@
+
+pair 1
+planetlab1.pop-mg.rnp.br	<<<>>>	planetlab4.mini.pw.edu.pl
+
+pair 2
+ricepl-1.cs.rice.edu	<<<>>>	planetlab4.mini.pw.edu.pl
+
+pair 3
+planetlab1.cs.uml.edu	<<<>>>	planetlab1.cs.ubc.ca
+
+pair 4
+planetlab-03.cs.princeton.edu	>>>	planetlab1.cs.uoregon.edu
+
+pair 5
+planetlab1.cs.ucla.edu	<<<>>>	planetlab1.cs.uml.edu
